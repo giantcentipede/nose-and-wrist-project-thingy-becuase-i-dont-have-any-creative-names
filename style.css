@@ -1,0 +1,33 @@
+.heading{ 
+    width:100%;
+    font-size: 20px;
+    margin: 0px;
+    box-shadow: 10px 10px 10px gray;
+}
+
+.note{
+    font-size: 15px;
+    color: black;
+}
+
+.copyright_footer{
+    bottom: 0;
+    position:fixed;
+    width: 100%;
+    background-color: greenyellow;
+    color: black;
+    line-height: 3;
+
+}
+
+canvas{
+    border-width: 6px;
+    border-radius: 1000px;
+    border-style:dashed;
+    border-color: green;
+    box-shadow: 10px 10px 10px green;
+}
+
+body{
+    background:linear-gradient(rgb(255, 255, 255) 0%,rgb(0, 251, 255) 100%)
+}
